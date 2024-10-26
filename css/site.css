@@ -112,6 +112,10 @@
     margin-top: 20px;
 }
 
+.containt-1 .containt {
+    height: auto;
+}
+
 .col-left,
 .col-right {
     width: 48%;
@@ -133,7 +137,7 @@
 .containt-1 p {
     font-size: 120%;
     text-align: justify;
-    
+
 }
 
 .containt-1 img {
@@ -142,9 +146,11 @@
     border: #2d8c3e 2px dashed;
     border-radius: 20px;
 }
-.col-right img{
+
+.col-right img {
     float: right;
 }
+
 .containt-2 {
     background-color: #81af53;
     margin-top: 20px;
@@ -181,37 +187,46 @@
     margin: 20px 0 20px 0;
     float: right;
 }
-.containt-3{
+
+.containt-3 {
     background-color: #dce085;
     padding-bottom: 40px;
 }
-.containt-3 h1{
+
+.containt-3 h1 {
     font-size: 170%;
     color: #196530;
     font-weight: bold;
     text-align: center;
     margin: 20px 0 20px 0;
 }
-.input-left, .input-right{
+
+.input-left,
+.input-right {
     width: 48%;
     display: inline-table;
 }
-.input-right{
-   
+
+.input-right {
+
     float: right;
 }
-.input-right button,input{
+
+.input-right button,
+input {
     float: right;
 }
-.containt-3 input{
+
+.containt-3 input {
     width: 90%;
     margin: 5px 0 5px 0;
     font-size: 90%;
     padding: 5px;
     border: none;
-    
+
 }
-.containt-3 button{
+
+.containt-3 button {
     width: 90%;
     background-color: #2a6e01;
     padding: 5px;
